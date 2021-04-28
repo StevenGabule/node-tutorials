@@ -1,0 +1,6 @@
+Feature 1:
+    - uploading Excel File to the Node.js Express Server & storing data in MySQL Database
+    - getting list of items from MySQL table
+    - downloading MySQL table data as Excel file
+
+Feature 2:
